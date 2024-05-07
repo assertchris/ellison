@@ -1,6 +1,6 @@
 {
   "name": "@assertchris/ellison",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple library that helps identify complex sentences and poor word choices.",
   "main": "index.js",
   "scripts": {
