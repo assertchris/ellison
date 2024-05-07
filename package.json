@@ -1,0 +1,11 @@
+{
+  "name": "@assertchris/ellison",
+  "version": "1.0.0",
+  "description": "Simple library that helps identify complex sentences and poor word choices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Christopher Pitt <me@assertchris.io>",
+  "license": "MIT"
+}
